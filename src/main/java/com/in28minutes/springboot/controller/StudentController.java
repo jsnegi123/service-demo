@@ -51,5 +51,6 @@ public class StudentController {
 
         return studentService.retrieveCourse(studentId, courseId);
     }
+    
 
 }
